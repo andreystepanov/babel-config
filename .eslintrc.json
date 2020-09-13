@@ -1,0 +1,3 @@
+{
+  "extends": ["@anst/eslint-config"]
+}
