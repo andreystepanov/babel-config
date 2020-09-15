@@ -1,6 +1,6 @@
 {
   "name": "@anst/babel-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal babel config",
   "main": "index.js",
   "scripts": {},
